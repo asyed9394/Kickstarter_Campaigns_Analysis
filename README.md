@@ -22,8 +22,7 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 
 ##### Data and format found in the kickstarter campaign data.
 ![Data dictionary for campapign data](Resources/Kickstarter_campaign_data_dictionary.png)
-
-![Additional columns created for analysis](Resources/calculated_columnsy.png)
+![Additional columns created for analysis](Resources/calculated_columns.png)
 
 
 ### Challenges and Difficulties Encountered
