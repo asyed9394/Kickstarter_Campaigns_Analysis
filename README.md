@@ -14,7 +14,7 @@ Challenge 1 requires analysis of the kickstarter past campaign data . The obecti
 
 #### Details about the data downloaded
 The data covers campaigns ran during a period of 9 years from 2009 to 2017. The campaigns are categorized into a wide range of categories. In order to do the analysis the data was filterd down to similar campaign based on the category. As the analysis is for a play writer for funding needed for new plays. The first steps was to identify data for similar universe. 
-##### steps for identifying data universe:
+##### Steps for identifying data universe:
 
 1. The data has a 'category/sub category' column with multiple values for 'theater'. So it was decided to user filter to reduce the down to anything realted to Theater.
 2. Futher analysis revealed that subcategory sapces for theater cateogry could have much higher goal amount and not linked to play directly. so the universe is futher reduced to focus on plays sub category.
@@ -23,6 +23,7 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 ##### Data and format found in the kickstarter campaign data.
 ![Data dictionary for campapign data](Resources/Kickstarter_campaign_data_dictionary.png)
 
+![Additional columns created for analysis](Resources/calculated_columnsy.png)
 
 
 ### Challenges and Difficulties Encountered
