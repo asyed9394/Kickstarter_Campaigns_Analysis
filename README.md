@@ -31,15 +31,34 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 
 ![Countifs screenshot](Resources/Countifs_for_analysis.png)
 
+### Challenges
 
+While I didn't encounter any specific challenges while doing the analysis, I think for someone new to data anlayis I would recomend them one key thing to remember is to validate the data transformation (testing and/or QA) at different staged of data transformation.
+E.g when preparing the data for 2nd part of analysis (i.e outcomes by goal amount), we've to do some data transformtaion. I did some verification for total by comparing the output from formula by count rows from "Kickstarter" data sheet by filtering down the columns. Basically validating the totals are matching the expected total.
+QA and validation /testing is a very important step for any data analysis.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+![Theater Campaign Outcomes by Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
+
+Based on the above grapgh I came to following conlcusions:
+  -May and June have the highest numbers of successfull campaigns. Combine together they reporesent 23% of total campaigns luanched vs 25% of successfull campaigns.
+  -In addition the Nov to Jan the no of campaigns luanched are lower relative to other months of the year. 
+  -Success rate is similar during the months from April to Aug. 
+
+
 - What can you conclude about the Outcomes based on Goals?
-
+  -Higher the goal amount is the lower the success rate will be. The rate break even at 15000 amount. The chances of success are the highest with the goal amount less than 10K
+  ![Theater Campaigns outcomes by Goal Ampunt](Resources/Outcomes_vs_Goals.png)
+  
 - What are some limitations of this dataset?
-
+  - The data doesn't have the campaign cost to understand the ROI
+  - The data is not recent so may not reflect new trends.
+  
 - What are some other possible tables and/or graphs that we could create?
-
+  - For outcomes by goal amount, I did additional graph to compare success rate against total campaigns to come to the conclusion we've very close success rate for middle of the year.
+  ![Theater Campaigns Success rate by launch month](Resources/Theater Campaigns Success Rate.png)
+  - In addition I would suggest to analyse campaigns by "Staff pick", and by "sptlight" to see if these two attributes imapct success rate in any way.
+  
