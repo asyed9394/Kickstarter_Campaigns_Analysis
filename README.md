@@ -21,16 +21,19 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 3. In addition, the camapgin launch dates values were not in the regular data format. So a new column was created and a formula is used to convert the data into proper date fromat. 
 
 ##### Data and format found in the kickstarter campaign data.
-**![Data dictionary for campapign data](Resources/Kickstarter_campaign_data_dictionary.png)
+**![Data dictionary for campapign data]**
+(Resources/Kickstarter_campaign_data_dictionary.png)
 
-**![Additional columns created for analysis](Resources/calculated_columns.png)
+**![Additional columns created for analysis]**
+(Resources/calculated_columns.png)
 
 ##### Steps for Analysis:
 
 1. Created pivot table and pivot chart for "Category Theater" by launch date month as row and outcomes as columns. Created the line chart using the pivot data .
 2. Created a summary of no of campagins for each outcome by a range of goal amounts. Used Countifs function to calculated the no of campaigns for each outcome and goal range. I've used formual derived from the cell values, so we can easily repeate the analytis for an sub category.
 
-![Countifs screenshot](Resources/Countifs_for_analysis.png)
+**![Countifs screenshot]**
+(Resources/Countifs_for_analysis.png)
 
 ### Challenges
 
@@ -42,7 +45,8 @@ QA and validation /testing is a very important step for any data analysis.
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![Theater Campaign Outcomes by Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
+**![Theater Campaign Outcomes by Launch Date]**
+(Resources/Theater_Outcomes_vs_Launch.png)
 
   1. May and June have the highest numbers of successfull campaigns. Combine together they reporesent 23% of total campaigns luanched vs 25% of successfull campaigns.
   2. In addition from the montsh of Nov to Jan the no of campaigns luanched per month are lower relative to other months of the year. 
@@ -51,7 +55,7 @@ QA and validation /testing is a very important step for any data analysis.
 
 - What can you conclude about the Outcomes based on Goals?
 
-   **![Theater Campaigns outcomes by Goal Ampunt]
+   **![Theater Campaigns outcomes by Goal Ampunt]**
    (Resources/Outcomes_vs_Goals.png)
     
     Higher the goal amount is the lower the success rate will be. The rate break even at 15000 amount. The chances of success are the highest with the goal amount less than 10K
@@ -63,7 +67,7 @@ QA and validation /testing is a very important step for any data analysis.
 - What are some other possible tables and/or graphs that we could create?
   1. For outcomes by goal amount, I did additional graph to compare success rate against total campaigns to come to the conclusion we've very close success rate for middle of the year.
   
-  **![Theater Campaigns Success rate by launch month]
+  **![Theater Campaigns Success rate by launch month]**
   (Resources/Theater_Campaigns_Success_Rate.png)
   
   2. In addition I would suggest to analyse campaigns by "Staff pick", and by "sptlight" to see if these two attributes imapct success rate in any way.
