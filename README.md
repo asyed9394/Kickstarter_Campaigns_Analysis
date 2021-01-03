@@ -51,7 +51,8 @@ QA and validation /testing is a very important step for any data analysis.
 
 - What can you conclude about the Outcomes based on Goals?
 
-   **![Theater Campaigns outcomes by Goal Ampunt](Resources/Outcomes_vs_Goals.png)
+   **![Theater Campaigns outcomes by Goal Ampunt]
+   (Resources/Outcomes_vs_Goals.png)
     
     Higher the goal amount is the lower the success rate will be. The rate break even at 15000 amount. The chances of success are the highest with the goal amount less than 10K
   
@@ -63,7 +64,7 @@ QA and validation /testing is a very important step for any data analysis.
   1. For outcomes by goal amount, I did additional graph to compare success rate against total campaigns to come to the conclusion we've very close success rate for middle of the year.
   
   **![Theater Campaigns Success rate by launch month]
-  (Resources/Theater Campaigns Success Rate.png)
+  (Resources/Theater_Campaigns_Success_Rate.png)
   
   2. In addition I would suggest to analyse campaigns by "Staff pick", and by "sptlight" to see if these two attributes imapct success rate in any way.
   
