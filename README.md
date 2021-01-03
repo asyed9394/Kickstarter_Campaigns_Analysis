@@ -7,10 +7,8 @@ Please see the [About Kickstarter](https://www.kickstarter.com/about?ref=global-
 The porject uses Excel to analyse the campaign level data for past campaings from  Kickstarter  platform.
 The dataset can be downloaded from [Kickstarter campaign data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_1/data-1-1-3-StarterBook.xlsx)
 
-
 ### Purpose
-Challenge 1 required to data a data analysis on kickstarter past campaign data . The obective of the analysis is to understand how the goal amounts and luanch month impact the success rate of kickstarter campaigns. This analysis will help Louise, whoe is a play writer, to plans her next campaign.
-
+Challenge 1 requires analyse kickstarter past campaign data . The obective of the analysis is to understand how the goal amounts and luanch month impact the success rate of kickstarter campaigns. This analysis will help Louise, whoe is a play writer, to plans her next campaign.
 
 ### Challenges and Difficulties Encountered
 
