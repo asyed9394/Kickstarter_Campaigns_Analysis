@@ -12,7 +12,7 @@ Challenge 1 requires analysis of the kickstarter past campaign data . The obecti
 
 ### Analysis
 
-#### Kickstart campaign data
+#### Details about the data downloaded
 The data covers campaigns ran during a period of 9 years from 2009 to 2017. The campaigns are categorized into a wide range of categories. In order to do the analysis the data was filterd down to similar campaign based on the category. As the analysis is for a play writer for funding needed for new plays. The first steps was to identify data for similar universe. 
 ##### steps for identifying data universe:
 
@@ -21,7 +21,7 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 3. In addition, the camapgin launch dates values were not in the regular data format. So a new column wascreated and a formula is used to convert the data into proper date fromat. 
 
 ##### Data and format found in the kickstarter campaign data.
-
+![Data dictionary for campapign data](Resources/Kickstarter campaign data dictionary.png)
 
 ### Challenges and Difficulties Encountered
 
