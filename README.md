@@ -5,12 +5,12 @@ Kickstarter is a crowdfunding platform that help ideators to bring their ideas t
 Please see the [About Kickstarter](https://www.kickstarter.com/about?ref=global-footer) for more details.
 
 The porject uses Excel to analyse the campaign level data for past campaings from  Kickstarter  platform.
+The dataset can be downloaded from [Kickstarter campaign data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_1/data-1-1-3-StarterBook.xlsx)
 
-The dataset could be downloaded from [download Kickstarter campaign data](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_1/data-1-1-3-StarterBook.xlsx) -
 
 ### Purpose
-Pupose of analysis requiried in challenge 1 is to understand how the goal amount and luanch month impacts the success rate of kickstarter campaigns.
-
+Pupose of the analysis required for challenge 1 is to understand how the goal amount and luanch month impacts the success rate of kickstarter campaigns.
+This analysis will help Louise, whoe is a play writer, to plans her next campaign.
 
 
 ### Challenges and Difficulties Encountered
