@@ -9,8 +9,7 @@ The dataset can be downloaded from [Kickstarter campaign data](https://2u-data-c
 
 
 ### Purpose
-Pupose of the analysis required for challenge 1 is to understand how the goal amount and luanch month impacts the success rate of kickstarter campaigns.
-This analysis will help Louise, whoe is a play writer, to plans her next campaign.
+Challenge 1 required to data a data analysis on kickstarter past campaign data . The obective of the analysis is to understand how the goal amounts and luanch month impact the success rate of kickstarter campaigns. This analysis will help Louise, whoe is a play writer, to plans her next campaign.
 
 
 ### Challenges and Difficulties Encountered
