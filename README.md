@@ -21,9 +21,9 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 3. In addition, the camapgin launch dates values were not in the regular data format. So a new column was created and a formula is used to convert the data into proper date fromat. 
 
 ##### Data and format found in the kickstarter campaign data.
-![Data dictionary for campapign data](Resources/Kickstarter_campaign_data_dictionary.png)
+**![Data dictionary for campapign data](Resources/Kickstarter_campaign_data_dictionary.png)
 
-![Additional columns created for analysis](Resources/calculated_columns.png)
+**![Additional columns created for analysis](Resources/calculated_columns.png)
 
 ##### Steps for Analysis:
 
@@ -45,6 +45,7 @@ QA and validation /testing is a very important step for any data analysis.
 ![Theater Campaign Outcomes by Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
   Based on the above graph I came to following conlcusions:
+  
     1. May and June have the highest numbers of successfull campaigns. Combine together they reporesent 23% of total campaigns luanched vs 25% of successfull campaigns.
     2. In addition from the montsh of Nov to Jan the no of campaigns luanched per month are lower relative to other months of the year. 
     3. Success rate is similar during the months from April to Aug. 
