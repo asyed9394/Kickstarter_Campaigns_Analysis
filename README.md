@@ -43,10 +43,11 @@ QA and validation /testing is a very important step for any data analysis.
 
 ![Theater Campaign Outcomes by Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
-Based on the above grapgh I came to following conlcusions:
-  -May and June have the highest numbers of successfull campaigns. Combine together they reporesent 23% of total campaigns luanched vs 25% of successfull campaigns.
-  -In addition the Nov to Jan the no of campaigns luanched are lower relative to other months of the year. 
-  -Success rate is similar during the months from April to Aug. 
+Based on the above graph I came to following conlcusions:
+
+  1. May and June have the highest numbers of successfull campaigns. Combine together they reporesent 23% of total campaigns luanched vs 25% of successfull campaigns.
+  2. In addition the Nov to Jan the no of campaigns luanched are lower relative to other months of the year. 
+  3. Success rate is similar during the months from April to Aug. 
 
 
 - What can you conclude about the Outcomes based on Goals?
@@ -54,11 +55,12 @@ Based on the above grapgh I came to following conlcusions:
   ![Theater Campaigns outcomes by Goal Ampunt](Resources/Outcomes_vs_Goals.png)
   
 - What are some limitations of this dataset?
-  - The data doesn't have the campaign cost to understand the ROI
-  - The data is not recent so may not reflect new trends.
+  1. The data doesn't have the campaign cost to understand the ROI.
+  2. The data is not recent so may not reflect new trends.
   
 - What are some other possible tables and/or graphs that we could create?
-  - For outcomes by goal amount, I did additional graph to compare success rate against total campaigns to come to the conclusion we've very close success rate for middle of the year.
+  1. For outcomes by goal amount, I did additional graph to compare success rate against total campaigns to come to the conclusion we've very close success rate for middle of the year.
   ![Theater Campaigns Success rate by launch month](Resources/Theater Campaigns Success Rate.png)
-  - In addition I would suggest to analyse campaigns by "Staff pick", and by "sptlight" to see if these two attributes imapct success rate in any way.
+  
+  2. In addition I would suggest to analyse campaigns by "Staff pick", and by "sptlight" to see if these two attributes imapct success rate in any way.
   
