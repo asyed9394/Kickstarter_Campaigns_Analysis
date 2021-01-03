@@ -46,7 +46,7 @@ QA and validation /testing is a very important step for any data analysis.
 Based on the above graph I came to following conlcusions:
 
   1. May and June have the highest numbers of successfull campaigns. Combine together they reporesent 23% of total campaigns luanched vs 25% of successfull campaigns.
-  2. In addition the Nov to Jan the no of campaigns luanched are lower relative to other months of the year. 
+  2. In addition from the montsh of Nov to Jan the no of campaigns luanched per month are lower relative to other months of the year. 
   3. Success rate is similar during the months from April to Aug. 
 
 
