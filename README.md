@@ -61,7 +61,9 @@ QA and validation /testing is a very important step for any data analysis.
   
 - What are some other possible tables and/or graphs that we could create?
   1. For outcomes by goal amount, I did additional graph to compare success rate against total campaigns to come to the conclusion we've very close success rate for middle of the year.
-  ![Theater Campaigns Success rate by launch month](Resources/Theater Campaigns Success Rate.png)
+  
+  **![Theater Campaigns Success rate by launch month]
+  (Resources/Theater Campaigns Success Rate.png)
   
   2. In addition I would suggest to analyse campaigns by "Staff pick", and by "sptlight" to see if these two attributes imapct success rate in any way.
   
