@@ -33,8 +33,8 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 
 ### Challenges
 
-While I didn't encounter any specific challenges while doing the analysis, I think for someone new to data anlayis I would recomend them one key thing to remember is to validate the data transformation (testing and/or QA) at different staged of data transformation.
-E.g when preparing the data for 2nd part of analysis (i.e outcomes by goal amount), we've to do some data transformtaion. I did some verification for total by comparing the output from formula by count rows from "Kickstarter" data sheet by filtering down the columns. Basically validating the totals are matching the expected total.
+I didn't encounter any specific challenges while doing the analysis, I think for someone new to data anlayis I would recomend them to rememebr to perform data validations and QA at after different stages of the data transformation.
+E.g when preparing the data for 2nd part of analysis (i.e outcomes by goal amount), we had to do some data transformtaion. I did some verification for total by comparing the output from formula vs  row counts from "Kickstarter" data sheet by filtering down the columns. Basically validating the totals are matching the expected total.
 QA and validation /testing is a very important step for any data analysis.
 
 ## Results
