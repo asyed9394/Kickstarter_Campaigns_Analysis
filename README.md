@@ -28,7 +28,8 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 
 1. Created pivot table and pivot chart for "Category Theater" by launch date month as row and outcomes as columns. Created the line chart using the pivot data .
 2. Created a summary of no of campagins for each outcome by a range of goal amounts. Used Countifs function to calculated the no of campaigns for each outcome and goal range. I've used formual derived from the cell values, so we can easily repeate the analytis for an sub category.
-!{Countifs screenshot](Resources/Countifs_for_analysis.png)
+
+![Countifs screenshot](Resources/Countifs_for_analysis.png)
 
 
 
