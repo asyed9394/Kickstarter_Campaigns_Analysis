@@ -17,15 +17,19 @@ The data covers campaigns ran during a period of 9 years from 2009 to 2017. The 
 ##### Steps for identifying data universe:
 
 1. The data has a 'category/sub category' column with multiple values for 'theater'. So it was decided to user filter to reduce the down to anything realted to Theater.
-2. Futher analysis revealed that subcategory sapces for theater cateogry could have much higher goal amount and not linked to play directly. so the universe is futher reduced to focus on plays sub category.
+2. Futher analysis revealed that "subcategory sapces" under category "theater" could have much higher goal amount and not linked to play directly. so the universe is futher reduced to focus on plays sub category.
 3. In addition, the camapgin launch dates values were not in the regular data format. So a new column was created and a formula is used to convert the data into proper date fromat. 
 
 ##### Data and format found in the kickstarter campaign data.
 ![Data dictionary for campapign data](Resources/Kickstarter_campaign_data_dictionary.png)
 ![Additional columns created for analysis](Resources/calculated_columns.png)
 
+##### Steps for Analysis:
 
-### Challenges and Difficulties Encountered
+1. Created pivot table and pivot chart for "Category Theater" by launch date month as row and outcomes as columns. Created the line chart using the pivot data .
+2. Created a summary of no of campagins for each outcome by a range of goal amounts. Used Countifs function to calculated the no of campaigns for each outcome and goal range. I've used formual derived from the cell values, so we can easily repeate the analytis for an sub category.
+
+
 
 ## Results
 
